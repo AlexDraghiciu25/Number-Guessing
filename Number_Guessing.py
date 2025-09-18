@@ -46,5 +46,5 @@ while attempts > 0 and finish == 0:
 
 if attempts == 0 and finish == 0:
     print(f"You've run out of guesses. You lost the game!"
-
           f"The answer was {num_between_1_and_100}")
+
